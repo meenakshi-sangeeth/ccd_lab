@@ -1,0 +1,1 @@
+alert("Welcome! The script is running.");
